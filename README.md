@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://swapnilaanam.com/)
 
-- 💬 Ask me about **React JS, Express JS, Node JS, MongoDB, JWT, Rest APIs**
+- 💬 Ask me about **React JS, Express JS, Node JS, MongoDB, JWT, Rest APIs.**
 
 - ⚡ Fun fact **I am a Spidey fan!**
 
