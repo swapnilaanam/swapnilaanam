@@ -41,7 +41,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/md-ashraf-ul-aanam-swapnil" target="blank">
-  ![LinkedIn]
+  ![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)
   <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="md-ashraf-ul-aanam-swapnil" height="50" width="50" />
 </a>
 <a href="https://codeforces.com/profile/zumizumi211" target="blank">
