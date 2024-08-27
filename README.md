@@ -37,24 +37,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/md-ashraf-ul-aanam-swapnil" target="blank">
-  <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="md-ashraf-ul-aanam-swapnil" height="50" width="50" />
-</a>
-<a href="https://codeforces.com/profile/zumizumi211" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zumizumi211" height="40" width="40" />
-</a>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=swapnilaanam" alt="swapnilaanam" />
-  </a>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilaanam&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swapnilaanam&theme=default&hide_border=true)
