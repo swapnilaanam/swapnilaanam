@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I am MD. Ashraf-Ul-Aanam Swapnil.</h1>
-<h3 align="center">An Optimistic Junior Web Developer From Sylhet, Bangladesh.</h3>
+<h3 align="center">An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swapnilaanam&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilaanam" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://swapnilaanam.com/)
 
-- 💬 Ask me about **React JS, Express JS, Node JS, MongoDB, JWT, Rest APIs.**
+- 💬 Ask me about **React JS, Next JS, JavaScript, TypeScript Express JS, Node JS, MongoDB, MySQL, JWT, Rest APIs.**
 
 - ⚡ Fun fact **I am a Spidey fan!**
 
@@ -28,7 +28,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
