@@ -1,5 +1,5 @@
-# 👋 <h1 align="center">Hey, I am MD. Ashraf-Ul-Aanam Swapnil.</h1>
-## <h2 align="center">An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.</h2>
+# 👋 Hey, I am MD. Ashraf-Ul-Aanam Swapnil.
+# An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swapnilaanam&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilaanam" /> </p>
 
