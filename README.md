@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I am MD. Ashraf-Ul-Aanam Swapnil.</h1>
-<h3 align="center">An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.</h3>
+<p align="center">👋</p>
+<h1 align="center">Hey, I am MD. Ashraf-Ul-Aanam Swapnil.</h1>
+<h2 align="center">An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swapnilaanam&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilaanam" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://swapnilaanam.com/)
 
-- 💬 Ask me about **React JS, Next JS, JavaScript, TypeScript Express JS, Node JS, MongoDB, MySQL, JWT, Rest APIs.**
+- 💬 Ask me about **React JS, Next JS, JavaScript, TypeScript, Express JS, Node JS, MongoDB, MySQL, JWT, Rest APIs.**
 
 - ⚡ Fun fact **I am a Spidey fan!**
 
@@ -57,5 +58,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilaanam&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=swapnilaanam&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swapnilaanam&theme=default&hide_border=true)
