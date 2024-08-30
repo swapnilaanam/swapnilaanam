@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **swapnilaanam211@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/11_JIt90f3mM1_XKE4lUtSCXhearU1lbR/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1xdFtO62UodMBRsPaayKHV3g3l-0Lrqxw/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://swapnilaanam.com/)
 
