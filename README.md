@@ -1,17 +1,18 @@
 <div align="center">
+<img src="./spiderman-confused.gif" alt="Spiderman Confused" style="width:100%;" />
 
 # Hi there! I'm **MD. Ashraf-Ul-Aanam Swapnil** 👋
 
 ### An Optimistic Full Stack Web Developer from Sylhet, Bangladesh. 
 
-<img src="./spiderman-confused.gif" alt="Spiderman Confused" width="300" />
-
 ---
+
+</div>
 
 ## 📚 About Me:
 - 📧 **Email:** [swapnilaanam211@gmail.com](mailto:swapnilaanam211@gmail.com)
-- 📄 **Resume:** [View My Resume](#)
-- 🌐 **Portfolio:** [My Portfolio Website](#)
+- 📄 **Resume:** [View My Resume](https://swapnilaanam.com/)
+- 🌐 **Portfolio:** [My Portfolio Website](https://swapnilaanam.com/)
 - 😊 **Ask Me About:** React JS, Next JS, JavaScript, TypeScript, Express JS, Node JS, MongoDB, MySQL, JWT, and Rest APIs.
 - 😉 **Fun Fact:** I’m a big fan of Spidey! 👻
 
@@ -62,7 +63,11 @@ Problem-Solving | Teamwork | Efficient Communication
 ---
 
 ## 📚 My Projects:
-Check out all my projects on my [Portfolio Website](#).
+- **Doctorii:** [Visit Doctorii](https://doctorii-app.vercel.app/)
+- **Food Masters:** [Visit Food Masters](https://food-masters-next.vercel.app/)
+- **Vhara Bari:** [Visit Vhara Bari](https://vhara-bari-client.vercel.app/)
+
+Check out all my projects on my [Portfolio Website](https://swapnilaanam.com/).
 
 ---
 
@@ -73,5 +78,3 @@ Check out all my projects on my [Portfolio Website](#).
 ---
 
 ### Thanks for visiting my GitHub profile! Feel free to explore and connect. Let’s build something awesome together! 🚀
-
-</div>
