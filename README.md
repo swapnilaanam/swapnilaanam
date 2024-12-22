@@ -1,4 +1,6 @@
-![Spiderman Confused GIF](./spiderman-confused.gif)
+<div align="center">
+  <img src="/spiderman-confused.gif" alt="Spiderman Confused GIF">
+</div>
 
 # <p align="center">👋   Hey, I am MD. Ashraf-Ul-Aanam Swapnil.</p>
   <h4 align="center">An Optimistic Full Stack Web Developer From Sylhet, Bangladesh.</h4>
