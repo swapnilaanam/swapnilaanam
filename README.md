@@ -20,23 +20,16 @@
 
 ## 💻 Skills:
 ### **Expertise:**
-<img src="https://img.shields.io/badge/-Next%20JS-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-<img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React JS" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<div className></div>
 
 ### **Comfortable:**
-<img src="https://img.shields.io/badge/-Express%20JS-000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />
-<img src="https://img.shields.io/badge/-REST%20APIs-000?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/-Next%20Auth-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Auth" />
+-<img src="https://img.shields.io/badge/-Express%20JS-000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />
+-<img src="https://img.shields.io/badge/-REST%20APIs-000?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
+-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+-<img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+-<img src="https://img.shields.io/badge/-Next%20Auth-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Auth" />
 
 ### **Familiar:**
 <img src="https://img.shields.io/badge/-Node%20JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS" />
